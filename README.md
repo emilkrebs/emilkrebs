@@ -27,6 +27,7 @@ I'm a developer who really likes coding.
 ![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=blue)
 ![Intellij](https://img.shields.io/badge/Intellij-05122A?style=flat&logo=intellijidea&logoColor=orange)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-05122A?style=flat&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender)
