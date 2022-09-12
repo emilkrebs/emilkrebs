@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Emil
-
-I'm a developer who really likes coding. 
-I have experience with building websites, creating libraries, game development and even creating Domain-Specific-Languages.
-I'm currently trying to learn Rust.
+### Hi there 👋
 
 ![Emil Krebs GitHub stats](https://github-readme-stats.vercel.app/api?username=emilkrebs&show_icons=true&theme=radical&)
+
+I'm a developer who really likes coding. 
+
+
 
 ### Languages and Tools
 
