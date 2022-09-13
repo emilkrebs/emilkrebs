@@ -8,12 +8,12 @@ I'm a developer who really likes coding.
 
 ### Languages and Tools
 
-![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
-![C-Sharp](https://img.shields.io/badge/C%20Sharp-05122A?style=flat&logo=csharp&logoColor=brightgreen)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![C-Sharp](https://img.shields.io/badge/C%20Sharp-05122A?style=flat&logo=csharp&logoColor=brightgreen)
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat)
 ![Html](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=magenta)
 ![Json](https://img.shields.io/badge/Json-05122A?style=flat&logo=json&logoColor=white)
