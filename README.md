@@ -23,6 +23,7 @@ I'm a developer who really likes coding.
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Deno](https://img.shields.io/badge/Deno-05122A?style=flat&logo=deno)
 ![Fresh](https://img.shields.io/badge/Fresh-05122A?style=flat)
+![Langium](https://img.shields.io/badge/Langium-05122A?style=flat)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-05122A?style=flat&logo=visualstudio&logoColor=magenta)
