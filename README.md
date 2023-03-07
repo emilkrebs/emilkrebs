@@ -19,6 +19,8 @@ I'm a developer who really likes coding.
 ![Json](https://img.shields.io/badge/Json-05122A?style=flat&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=yellow)
 
+
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![Deno](https://img.shields.io/badge/Deno-05122A?style=flat&logo=deno)
