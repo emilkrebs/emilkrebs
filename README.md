@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Emil Krebs GitHub stats](https://github-readme-stats.vercel.app/api?username=emilkrebs&show_icons=true&theme=radical)
-
 I'm a developer who really likes coding. 
 
 
