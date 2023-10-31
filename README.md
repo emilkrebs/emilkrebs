@@ -7,7 +7,11 @@ I'm a developer who really likes coding.
 <a href="https://github.com/emilkrebs/Generator-Discord" target="_blank" rel="noopener noreferrer">
 	  <img width="512" alt="Generator-Discord Logo" src="https://raw.githubusercontent.com/emilkrebs/Generator-Discord/main/assets/banner-transparent-bg.png">
 </a>
- 
+
+ <a href="https://github.com/emilkrebs/WatchLock" target="_blank" rel="noopener noreferrer">
+	  <img width="512" alt="WatchLock Logo" src="https://github.com/emilkrebs/WatchLock/blob/main/images/WatchLock_Banner.png">
+</a>
+
 ### Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
