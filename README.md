@@ -2,6 +2,8 @@
 
 I'm a developer who really likes coding. 
 
+Medium: https://medium.com/@emilkrebs
+
 ### Check out
 
 <a href="https://github.com/emilkrebs/Generator-Discord" target="_blank" rel="noopener noreferrer">
