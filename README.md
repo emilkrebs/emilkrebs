@@ -2,7 +2,8 @@
 
 I'm a developer who really likes coding. 
 
-Medium: https://medium.com/@emilkrebs
+Other Profiles:
+- [Medium](https://medium.com/@emilkrebs)
 
 ### Check out
 
