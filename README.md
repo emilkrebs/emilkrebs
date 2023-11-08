@@ -2,7 +2,7 @@
 
 I'm a developer who really likes coding. 
 
-Other Profiles:
+**Other Profiles:**
 - [Medium](https://medium.com/@emilkrebs)
 - [LinkedIn](https://www.linkedin.com/in/emilkrebs/)
 
