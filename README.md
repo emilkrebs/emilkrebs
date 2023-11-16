@@ -7,6 +7,10 @@ I'm a developer who really likes coding.
 - [Medium](https://medium.com/@emilkrebs) (Blog)
 
 
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilkrebs&show_icons=true&theme=tokyonight)
+
 ### Check out
 
 <a href="https://github.com/emilkrebs/Generator-Discord" target="_blank" rel="noopener noreferrer">
