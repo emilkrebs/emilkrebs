@@ -14,11 +14,11 @@ I'm a developer who really likes coding.
 ### Check out
 
 <a href="https://github.com/emilkrebs/Generator-Discord" target="_blank" rel="noopener noreferrer">
-	  <img width="512" alt="Generator-Discord Logo" src="https://raw.githubusercontent.com/emilkrebs/Generator-Discord/main/assets/banner-transparent-bg.png">
+	  <img width="356" alt="Generator-Discord Logo" src="https://raw.githubusercontent.com/emilkrebs/Generator-Discord/main/assets/banner-transparent-bg.png">
 </a>
 
  <a href="https://github.com/emilkrebs/WatchLock" target="_blank" rel="noopener noreferrer">
-	  <img width="512" alt="WatchLock Logo" src="https://github.com/emilkrebs/WatchLock/blob/main/images/WatchLock_Banner.png">
+	  <img width="356" alt="WatchLock Logo" src="https://github.com/emilkrebs/WatchLock/blob/main/images/WatchLock_Banner.png">
 </a>
 
 ### Languages and Tools
