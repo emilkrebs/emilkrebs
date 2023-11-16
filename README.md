@@ -9,7 +9,7 @@ I'm a developer who really likes coding.
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilkrebs&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilkrebs&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=emilkrebs&show_icons=true&theme=tokyonight)
 
 ### Check out
 
