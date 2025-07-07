@@ -2,6 +2,8 @@
 
 I'm a developer who really likes coding. 
 
+🔗 Take a look at VailNote at [vailnote.com](https://vailnote.com).
+
 **Other Profiles:**
 - [LinkedIn](https://www.linkedin.com/in/emilkrebs/) (Business)
 - [Medium](https://medium.com/@emilkrebs) (Blog)
