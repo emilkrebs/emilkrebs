@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer who really likes coding. 
+I'm a developer who really likes coding. Currently building a highly efficient AI Learning Application to empower students all around the world, along with modern AI-assisted medical tools.
 
 
 🔗 Creator of  [vailnote.com](https://vailnote.com).
