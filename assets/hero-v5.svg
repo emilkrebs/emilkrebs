@@ -22,8 +22,7 @@
 
   <text x="56" y="92" class="sans h-name ink">Emil Krebs</text>
 
-  <text x="1144" y="60" text-anchor="end" class="mono m-line muted">ROLE  <tspan class="ink m-val">SOFTWARE ENGINEER</tspan></text>
-  <text x="1144" y="88" text-anchor="end" class="mono m-line muted">EMPLOYER  <tspan class="ink m-val">TYPEFOX GMBH — KIEL</tspan></text>
+  <text x="1144" y="92" text-anchor="end" class="mono m-line muted">ROLE  <tspan class="ink m-val">SOFTWARE ENGINEER AT TYPEFOX GMBH — KIEL</tspan></text>
 
   <line x1="56" y1="124" x2="1144" y2="124" class="card-line" stroke-width="1"/>
 </svg>
