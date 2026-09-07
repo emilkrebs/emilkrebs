@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel. Now building VailNote: zero-knowledge note and secret sharing." width="1200">
+<img src="assets/hero.svg?v=2" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel. Now building VailNote: zero-knowledge note and secret sharing." width="1200">
 
 <p><small><strong>01 — LIVE PRODUCTS</strong></small></p>
 
