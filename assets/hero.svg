@@ -34,9 +34,9 @@
   <text x="56" y="118" class="sans h-name ink">Emil Krebs</text>
   <text x="58" y="152" class="mono h-sub muted">PUBLIC INDEX — WHAT I BUILD &amp; SHIP</text>
 
-  <text x="1144" y="70" text-anchor="end" class="mono m-line muted">ROLE&nbsp; <tspan class="ink m-val">SOFTWARE ENGINEER</tspan></text>
-  <text x="1144" y="100" text-anchor="end" class="mono m-line muted">EMPLOYER&nbsp; <tspan class="ink m-val">TYPEFOX GMBH — KIEL</tspan></text>
-  <text x="1144" y="130" text-anchor="end" class="mono m-line muted">EDUCATION&nbsp; <tspan class="ink m-val">CS @ CAU KIEL</tspan></text>
+  <text x="1144" y="70" text-anchor="end" class="mono m-line muted">ROLE  <tspan class="ink m-val">SOFTWARE ENGINEER</tspan></text>
+  <text x="1144" y="100" text-anchor="end" class="mono m-line muted">EMPLOYER  <tspan class="ink m-val">TYPEFOX GMBH — KIEL</tspan></text>
+  <text x="1144" y="130" text-anchor="end" class="mono m-line muted">EDUCATION  <tspan class="ink m-val">CS @ CAU KIEL</tspan></text>
 
   <line x1="56" y1="178" x2="1144" y2="178" class="card-line" stroke-width="1"/>
 
