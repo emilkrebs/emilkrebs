@@ -1,4 +1,4 @@
-<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel." width="1200">
+<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel." width="1200">
 
 <p><small><strong>01 — ENTERPRISE</strong></small></p>
 
@@ -46,4 +46,11 @@ Personal site, set like a printed language specification.<br>
 
 <p><small><strong>04 — ARCHIVE</strong> — <a href="https://github.com/emilkrebs/Generator-Discord">Generator-Discord</a>, Discord bot scaffolder on <a href="https://npmjs.com/package/generator-discord">npm</a> · Spigot plugins · Discord bots (2022–2024, archived).</small></p>
 
-<p><small><strong>05 — INDEX</strong> — <a href="https://emilkrebs.dev">site</a> · <a href="https://github.com/emilkrebs">github</a> · <a href="https://www.linkedin.com/in/emilkrebs/">linkedin</a> · <a href="https://medium.com/@emilkrebs">medium</a></small></p>
+<p><small><strong>05 — INDEX</strong></small></p>
+
+<p>
+<a href="https://emilkrebs.dev"><img src="assets/dev-mark.svg" alt="emilkrebs.dev" width="24" height="24"></a>&nbsp;&nbsp;
+<a href="https://github.com/emilkrebs"><img src="assets/icon-github.svg" alt="GitHub" width="24" height="24"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/emilkrebs/"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="24" height="24"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@emilkrebs"><img src="assets/icon-medium.svg" alt="Medium" width="24" height="24"></a>
+</p>
