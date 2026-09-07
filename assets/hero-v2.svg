@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img">
   <title>Emil Krebs — public index</title>
   <style>
     .card-bg { fill: #f7f5f0; }
@@ -6,44 +6,28 @@
     .ink { fill: #141310; }
     .muted { fill: #6e6a63; }
     .accent { fill: #e8450c; }
-    .band-bg { fill: #141310; }
-    .band-ink { fill: #f7f5f0; }
-    .band-muted { fill: #9b968c; }
     .sans { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: ui-monospace, 'SF Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
     .h-name { font-size: 60px; font-weight: 800; letter-spacing: -0.02em; }
     .h-sub { font-size: 18px; font-weight: 500; letter-spacing: 0.14em; }
     .m-line { font-size: 17px; font-weight: 500; letter-spacing: 0.1em; }
     .m-val { font-weight: 600; letter-spacing: 0.02em; }
-    .b-title { font-size: 30px; font-weight: 600; letter-spacing: -0.01em; }
-    .b-label { font-size: 19px; font-weight: 500; letter-spacing: 0.14em; }
-    .b-side { font-size: 16px; font-weight: 500; letter-spacing: 0.1em; }
     @media (prefers-color-scheme: dark) {
       .card-bg { fill: #1c1915; }
       .card-line { stroke: rgba(247,245,240,0.14); }
       .ink { fill: #f7f5f0; }
       .muted { fill: #9b968c; }
-      .band-bg { fill: #f7f5f0; }
-      .band-ink { fill: #141310; }
-      .band-muted { fill: #6e6a63; }
     }
   </style>
-  <rect x="0" y="0" width="1200" height="330" class="card-bg"/>
-  <rect x="0.5" y="0.5" width="1199" height="329" fill="none" class="card-line" stroke-width="1"/>
+  <rect x="0" y="0" width="1200" height="200" class="card-bg"/>
+  <rect x="0.5" y="0.5" width="1199" height="199" fill="none" class="card-line" stroke-width="1"/>
 
-  <text x="56" y="118" class="sans h-name ink">Emil Krebs</text>
-  <text x="58" y="152" class="mono h-sub muted">PUBLIC INDEX — WHAT I BUILD &amp; SHIP</text>
+  <text x="56" y="104" class="sans h-name ink">Emil Krebs</text>
+  <text x="58" y="140" class="mono h-sub muted">PUBLIC INDEX — WHAT I BUILD &amp; SHIP</text>
 
-  <text x="1144" y="70" text-anchor="end" class="mono m-line muted">ROLE  <tspan class="ink m-val">SOFTWARE ENGINEER</tspan></text>
-  <text x="1144" y="100" text-anchor="end" class="mono m-line muted">EMPLOYER  <tspan class="ink m-val">TYPEFOX GMBH — KIEL</tspan></text>
-  <text x="1144" y="130" text-anchor="end" class="mono m-line muted">EDUCATION  <tspan class="ink m-val">CS @ CAU KIEL</tspan></text>
+  <text x="1144" y="60" text-anchor="end" class="mono m-line muted">ROLE  <tspan class="ink m-val">SOFTWARE ENGINEER</tspan></text>
+  <text x="1144" y="88" text-anchor="end" class="mono m-line muted">EMPLOYER  <tspan class="ink m-val">TYPEFOX GMBH — KIEL</tspan></text>
+  <text x="1144" y="116" text-anchor="end" class="mono m-line muted">EDUCATION  <tspan class="ink m-val">CS @ CAU KIEL</tspan></text>
 
-  <line x1="56" y1="178" x2="1144" y2="178" class="card-line" stroke-width="1"/>
-
-  <rect x="56" y="196" width="1088" height="92" class="band-bg"/>
-  <text x="86" y="254" class="mono accent" font-size="24">●</text>
-  <text x="116" y="256" class="mono b-label band-muted">NOW</text>
-  <text x="260" y="254" class="sans b-title band-ink">Building Prami &amp; Healthstack</text>
-  <text x="1128" y="240" text-anchor="end" class="mono b-side band-muted">PRAMI — IN TESTING</text>
-  <text x="1128" y="266" text-anchor="end" class="mono b-side band-ink">HEALTHSTACK — CONCEPT</text>
+  <line x1="56" y1="164" x2="1144" y2="164" class="card-line" stroke-width="1"/>
 </svg>

@@ -1,6 +1,10 @@
-<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel. Now building Prami and Healthstack." width="1200">
+<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel." width="1200">
 
-<p><small><strong>01 — LIVE PRODUCTS</strong></small></p>
+<p><small><strong>01 — ENTERPRISE</strong></small></p>
+
+<p>Developer tooling in the Eclipse Theia ecosystem at <a href="https://typefox.io/"><strong>TypeFox GmbH</strong></a> (Kiel): language servers, Langium-based DSLs, Theia-based IDE platforms — plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA; scope is shared on request.</p>
+
+<p><small><strong>02 — LIVE PRODUCTS</strong></small></p>
 
 <table>
 <tr>
@@ -25,7 +29,7 @@ Personal site, set like a printed language specification.<br>
 </tr>
 </table>
 
-<p><small><strong>02 — IN DEVELOPMENT</strong></small></p>
+<p><small><strong>03 — IN DEVELOPMENT</strong></small></p>
 
 <table>
 <tr>
@@ -40,6 +44,6 @@ Personal site, set like a printed language specification.<br>
 </tr>
 </table>
 
-<p><small><strong>03 — ARCHIVE</strong> — <a href="https://github.com/emilkrebs/Generator-Discord">Generator-Discord</a>, Discord bot scaffolder on <a href="https://npmjs.com/package/generator-discord">npm</a> · Spigot plugins · Discord bots (2022–2024, archived).</small></p>
+<p><small><strong>04 — ARCHIVE</strong> — <a href="https://github.com/emilkrebs/Generator-Discord">Generator-Discord</a>, Discord bot scaffolder on <a href="https://npmjs.com/package/generator-discord">npm</a> · Spigot plugins · Discord bots (2022–2024, archived).</small></p>
 
-<p><small><strong>04 — INDEX</strong> — <a href="https://emilkrebs.dev">site</a> · <a href="https://github.com/emilkrebs">github</a> · <a href="https://www.linkedin.com/in/emilkrebs/">linkedin</a> · <a href="https://medium.com/@emilkrebs">medium</a></small></p>
+<p><small><strong>05 — INDEX</strong> — <a href="https://emilkrebs.dev">site</a> · <a href="https://github.com/emilkrebs">github</a> · <a href="https://www.linkedin.com/in/emilkrebs/">linkedin</a> · <a href="https://medium.com/@emilkrebs">medium</a></small></p>
