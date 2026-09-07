@@ -1,4 +1,4 @@
-<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel." width="1200">
+<img src="assets/hero-v3.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel." width="1200">
 
 <p><small><strong>01 — ENTERPRISE</strong></small></p>
 
@@ -49,8 +49,8 @@ Personal site, set like a printed language specification.<br>
 <p><small><strong>05 — INDEX</strong></small></p>
 
 <p>
-<a href="https://emilkrebs.dev"><img src="assets/dev-mark.svg" alt="emilkrebs.dev" width="24" height="24"></a>&nbsp;&nbsp;
-<a href="https://github.com/emilkrebs"><img src="assets/icon-github.svg" alt="GitHub" width="24" height="24"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/emilkrebs/"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="24" height="24"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@emilkrebs"><img src="assets/icon-medium.svg" alt="Medium" width="24" height="24"></a>
+<a href="https://emilkrebs.dev"><img src="assets/dev-mark.svg" alt="" width="20" height="20"> emilkrebs.dev</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/emilkrebs"><img src="assets/icon-github.svg" alt="" width="20" height="20"> GitHub</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/emilkrebs/"><img src="assets/icon-linkedin.svg" alt="" width="20" height="20"> LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@emilkrebs"><img src="assets/icon-medium.svg" alt="" width="20" height="20"> Medium</a>
 </p>
