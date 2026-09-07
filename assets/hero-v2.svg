@@ -43,7 +43,7 @@
   <rect x="56" y="196" width="1088" height="92" class="band-bg"/>
   <text x="86" y="254" class="mono accent" font-size="24">●</text>
   <text x="116" y="256" class="mono b-label band-muted">NOW</text>
-  <text x="260" y="254" class="sans b-title band-ink">Building VailNote</text>
-  <text x="1128" y="240" text-anchor="end" class="mono b-side band-muted">ZERO-KNOWLEDGE NOTE &amp; SECRET SHARING</text>
-  <text x="1128" y="266" text-anchor="end" class="mono b-side band-ink">VAILNOTE.COM — LIVE</text>
+  <text x="260" y="254" class="sans b-title band-ink">Building Prami &amp; Healthstack</text>
+  <text x="1128" y="240" text-anchor="end" class="mono b-side band-muted">PRAMI — IN TESTING</text>
+  <text x="1128" y="266" text-anchor="end" class="mono b-side band-ink">HEALTHSTACK — CONCEPT</text>
 </svg>

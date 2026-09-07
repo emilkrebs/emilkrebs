@@ -1,4 +1,4 @@
-<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel. Now building VailNote: zero-knowledge note and secret sharing." width="1200">
+<img src="assets/hero-v2.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel. CS at CAU Kiel. Now building Prami and Healthstack." width="1200">
 
 <p><small><strong>01 — LIVE PRODUCTS</strong></small></p>
 
@@ -25,6 +25,21 @@ Personal site, set like a printed language specification.<br>
 </tr>
 </table>
 
-<p><small><strong>02 — ARCHIVE</strong> — <a href="https://github.com/emilkrebs/Generator-Discord">Generator-Discord</a>, Discord bot scaffolder on <a href="https://npmjs.com/package/generator-discord">npm</a> · Spigot plugins · Discord bots (2022–2024, archived).</small></p>
+<p><small><strong>02 — IN DEVELOPMENT</strong></small></p>
 
-<p><small><strong>03 — INDEX</strong> — <a href="https://emilkrebs.dev">site</a> · <a href="https://github.com/emilkrebs">github</a> · <a href="https://www.linkedin.com/in/emilkrebs/">linkedin</a> · <a href="https://medium.com/@emilkrebs">medium</a></small></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://emilkrebs.dev/#projects">Prami</a></strong> — active recall &amp; spaced repetition, engineered so the review schedule fades into the background.<br>
+<code>Next.js · PWA · TypeScript</code> — in testing
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://emilkrebs.dev/healthstack">Healthstack</a></strong> — a specialized IDE for lifestyle optimization on Eclipse Theia: biomarker tracking, unit conversion, purpose-built DSL.<br>
+<code>Eclipse Theia · TypeScript · DSL</code> — concept
+</td>
+</tr>
+</table>
+
+<p><small><strong>03 — ARCHIVE</strong> — <a href="https://github.com/emilkrebs/Generator-Discord">Generator-Discord</a>, Discord bot scaffolder on <a href="https://npmjs.com/package/generator-discord">npm</a> · Spigot plugins · Discord bots (2022–2024, archived).</small></p>
+
+<p><small><strong>04 — INDEX</strong> — <a href="https://emilkrebs.dev">site</a> · <a href="https://github.com/emilkrebs">github</a> · <a href="https://www.linkedin.com/in/emilkrebs/">linkedin</a> · <a href="https://medium.com/@emilkrebs">medium</a></small></p>
