@@ -1,4 +1,4 @@
-<img src="assets/hero-v3.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel." width="1200">
+<img src="assets/hero-v4.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel." width="1200">
 
 <p><small><strong>01 — ENTERPRISE</strong></small></p>
 
