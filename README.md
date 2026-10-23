@@ -1,56 +1,72 @@
-<img src="assets/hero-v5.svg" alt="Emil Krebs — public index. Software Engineer at TypeFox GmbH, Kiel." width="1200">
+<a href="https://emilkrebs.dev"><img src="assets/hero-v6.svg" alt="Emil Krebs — Software Engineer at TypeFox GmbH, Kiel. Developer tooling, privacy-first software, and evidence-based health tools." width="100%"></a>
 
-<p><small><strong>01 — ENTERPRISE</strong></small></p>
+## 01 · Enterprise
 
-<p>Developer tooling in the Eclipse Theia ecosystem at <a href="https://typefox.io/"><strong>TypeFox GmbH</strong></a> (Kiel): language servers, Langium-based DSLs, Theia-based IDE platforms — plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA; scope is shared on request.</p>
+Developer tooling in the Eclipse Theia ecosystem at **[TypeFox GmbH](https://typefox.io/)** (Kiel): language servers, Langium-based DSLs, and Theia-based IDE platforms, plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA; scope is shared on request.
 
-<p><small><strong>02 — LIVE PRODUCTS</strong></small></p>
+## 02 · Live products
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/emilkrebs/VailNote/main/static/logo.svg" alt="VailNote" width="120"><br>
+<td width="120" align="center" valign="middle"><a href="https://vailnote.com"><img src="https://raw.githubusercontent.com/emilkrebs/VailNote/main/static/android-chrome-192x192.png" alt="VailNote" width="56" height="56"></a></td>
+<td valign="middle">
 <strong><a href="https://vailnote.com">VailNote</a></strong><br>
 Privacy-first note &amp; secret sharing, zero-knowledge by design.<br>
-<code>Deno · TypeScript</code> · <a href="https://github.com/emilkrebs/VailNote">source ↗</a>
+<a href="https://vailnote.com">site ↗</a> · <a href="https://github.com/emilkrebs/VailNote">source ↗</a>
 </td>
-<td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/emilkrebs/WatchLock/main/images/WatchLock.webp" alt="WatchLock" width="64"><br>
+</tr>
+<tr>
+<td width="120" align="center" valign="middle"><a href="https://github.com/emilkrebs/med-research-mcp"><img src="https://raw.githubusercontent.com/emilkrebs/med-research-mcp/main/mcpb/icon.png" alt="med-research-mcp" width="56" height="56"></a></td>
+<td valign="middle">
+<strong><a href="https://github.com/emilkrebs/med-research-mcp">med-research-mcp</a></strong><br>
+Evidence-graded literature search for AI agents: an MCP server for PubMed, Europe PMC, ChinaXiv and RussiaRxiv that labels every result by study design, evidence tier and retraction status.<br>
+<a href="https://www.npmjs.com/package/med-research-mcp">npm ↗</a> · <a href="https://github.com/emilkrebs/med-research-mcp">source ↗</a>
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.emilkrebs.watchlock"><img src="https://raw.githubusercontent.com/emilkrebs/WatchLock/main/images/WatchLock.webp" alt="WatchLock" width="56" height="56"></a></td>
+<td valign="middle">
 <strong><a href="https://play.google.com/store/apps/details?id=com.emilkrebs.watchlock">WatchLock</a></strong><br>
 Lock your phone from your watch.<br>
-<code>Kotlin · Android</code> · <a href="https://github.com/emilkrebs/WatchLock">source ↗</a>
+<a href="https://play.google.com/store/apps/details?id=com.emilkrebs.watchlock">Google Play ↗</a> · <a href="https://github.com/emilkrebs/WatchLock">source ↗</a>
 </td>
-<td width="33%" valign="top">
-<img src="assets/dev-mark.svg" alt="emilkrebs.dev" width="64"><br>
+</tr>
+<tr>
+<td width="120" align="center" valign="middle"><a href="https://emilkrebs.dev"><img src="assets/dev-mark.svg" alt="emilkrebs.dev" width="56" height="56"></a></td>
+<td valign="middle">
 <strong><a href="https://emilkrebs.dev">emilkrebs.dev</a></strong><br>
 Personal site, set like a printed language specification.<br>
-<code>Next.js · MDX</code> · <a href="https://github.com/emilkrebs/emilkrebs.dev">source ↗</a>
+<a href="https://emilkrebs.dev">site ↗</a> · <a href="https://github.com/emilkrebs/emilkrebs.dev">source ↗</a>
 </td>
 </tr>
 </table>
 
-<p><small><strong>03 — IN DEVELOPMENT</strong></small></p>
+## 03 · In development
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<strong><a href="https://emilkrebs.dev/#projects">Prami</a></strong> — active recall &amp; spaced repetition, engineered so the review schedule fades into the background.<br>
-<code>Next.js · PWA · TypeScript</code> — in testing
+<td valign="middle">
+<strong><a href="https://emilkrebs.dev/#projects">Prami</a></strong><br>
+Active recall &amp; spaced repetition, engineered so the review schedule fades into the background.
 </td>
-<td width="50%" valign="top">
-<strong><a href="https://emilkrebs.dev/healthstack">Healthstack</a></strong> — a specialized IDE for lifestyle optimization on Eclipse Theia: biomarker tracking, unit conversion, purpose-built DSL.<br>
-<code>Eclipse Theia · TypeScript · DSL</code> — concept
+</tr>
+<tr>
+<td valign="middle">
+<strong><a href="https://emilkrebs.dev/healthstack">Healthstack</a></strong><br>
+A specialized IDE for lifestyle optimization on Eclipse Theia: biomarker tracking, unit conversion, purpose-built DSL.
 </td>
 </tr>
 </table>
 
-<p><small><strong>04 — ARCHIVE</strong> — <a href="https://github.com/emilkrebs/Generator-Discord">Generator-Discord</a>, Discord bot scaffolder on <a href="https://npmjs.com/package/generator-discord">npm</a> · Spigot plugins · Discord bots (2022–2024, archived).</small></p>
+## 04 · Archive
 
-<p><small><strong>05 — INDEX</strong></small></p>
+[Generator-Discord](https://github.com/emilkrebs/Generator-Discord), Discord bot scaffolder on [npm](https://npmjs.com/package/generator-discord) · Spigot plugins · Discord bots (2022–2024, archived).
+
+## 05 · Index
 
 <p>
-<a href="https://emilkrebs.dev"><img src="assets/dev-mark.svg" alt="" width="20" height="20"> emilkrebs.dev</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/emilkrebs"><img src="assets/icon-github.svg" alt="" width="20" height="20"> GitHub</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/emilkrebs/"><img src="assets/icon-linkedin.svg" alt="" width="20" height="20"> LinkedIn</a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@emilkrebs"><img src="assets/icon-medium.svg" alt="" width="20" height="20"> Medium</a>
+<a href="https://emilkrebs.dev"><img src="assets/dev-mark.svg" alt="" width="20" height="20" align="absmiddle"> emilkrebs.dev</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/emilkrebs"><img src="assets/icon-github.svg" alt="" width="20" height="20" align="absmiddle"> GitHub</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/emilkrebs/"><img src="assets/icon-linkedin.svg" alt="" width="20" height="20" align="absmiddle"> LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@emilkrebs"><img src="assets/icon-medium.svg" alt="" width="20" height="20" align="absmiddle"> Medium</a>
 </p>
