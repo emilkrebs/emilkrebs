@@ -3,7 +3,6 @@
   <style>
     .card-bg { fill: #f7f5f0; }
     .card-line { stroke: rgba(20,19,16,0.14); }
-    .ink { fill: #141310; }
     .muted { fill: #6e6a63; }
     .sans { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: ui-monospace, 'SF Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -30,7 +29,6 @@
   <text x="40" y="176" class="sans h-tag muted">Developer tooling, privacy-first software, and evidence-based health tools.</text>
 
   <g transform="translate(704 80) scale(1.5)">
-    <rect width="64" height="64" class="ink"/>
     <rect x="8" y="28" width="8" height="8" fill="#e8450c"/>
     <rect x="20" y="28" width="8" height="8" fill="#e8450c"/>
     <rect x="32" y="28" width="8" height="8" fill="#e8450c"/>

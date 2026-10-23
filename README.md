@@ -2,7 +2,7 @@
 
 ## 01 · Enterprise
 
-Developer tooling in the Eclipse Theia ecosystem at **[TypeFox GmbH](https://typefox.io/)** (Kiel): language servers, Langium-based DSLs, and Theia-based IDE platforms, plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA; scope is shared on request.
+Domain-specific tooling in the enterprise ecosystem at **[TypeFox GmbH](https://typefox.io/)** (Kiel): VSCode-Extensions, language servers, Langium-based DSLs, and Theia-based IDE platforms, plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA; scope is shared on request.
 
 ## 02 · Live products
 
@@ -19,16 +19,8 @@ Privacy-first note &amp; secret sharing, zero-knowledge by design.<br>
 <td width="120" align="center" valign="middle"><a href="https://github.com/emilkrebs/med-research-mcp"><img src="https://raw.githubusercontent.com/emilkrebs/med-research-mcp/main/mcpb/icon.png" alt="med-research-mcp" width="56" height="56"></a></td>
 <td valign="middle">
 <strong><a href="https://github.com/emilkrebs/med-research-mcp">med-research-mcp</a></strong><br>
-Evidence-graded literature search for AI agents: an MCP server for PubMed, Europe PMC, ChinaXiv and RussiaRxiv that labels every result by study design, evidence tier and retraction status.<br>
+Evidence-graded literature search for AI agents: an MCP server for PubMed, Europe PMC, ChinaXiv and RussiaRxiv that ranks results by study design and flags retractions, preprints and animal-only studies.<br>
 <a href="https://www.npmjs.com/package/med-research-mcp">npm ↗</a> · <a href="https://github.com/emilkrebs/med-research-mcp">source ↗</a>
-</td>
-</tr>
-<tr>
-<td width="120" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.emilkrebs.watchlock"><img src="https://raw.githubusercontent.com/emilkrebs/WatchLock/main/images/WatchLock.webp" alt="WatchLock" width="56" height="56"></a></td>
-<td valign="middle">
-<strong><a href="https://play.google.com/store/apps/details?id=com.emilkrebs.watchlock">WatchLock</a></strong><br>
-Lock your phone from your watch.<br>
-<a href="https://play.google.com/store/apps/details?id=com.emilkrebs.watchlock">Google Play ↗</a> · <a href="https://github.com/emilkrebs/WatchLock">source ↗</a>
 </td>
 </tr>
 <tr>
@@ -45,12 +37,14 @@ Personal site, set like a printed language specification.<br>
 
 <table>
 <tr>
+<td width="120" align="center" valign="middle"><a href="https://emilkrebs.dev/#projects"><img src="assets/prami.svg" alt="Prami" width="56" height="56"></a></td>
 <td valign="middle">
 <strong><a href="https://emilkrebs.dev/#projects">Prami</a></strong><br>
 Active recall &amp; spaced repetition, engineered so the review schedule fades into the background.
 </td>
 </tr>
 <tr>
+<td width="120" align="center" valign="middle"><a href="https://emilkrebs.dev/healthstack"><img src="assets/healthstack.svg" alt="Healthstack" width="56" height="56"></a></td>
 <td valign="middle">
 <strong><a href="https://emilkrebs.dev/healthstack">Healthstack</a></strong><br>
 A specialized IDE for lifestyle optimization on Eclipse Theia: biomarker tracking, unit conversion, purpose-built DSL.
@@ -61,6 +55,8 @@ A specialized IDE for lifestyle optimization on Eclipse Theia: biomarker trackin
 ## 04 · Archive
 
 [Generator-Discord](https://github.com/emilkrebs/Generator-Discord), Discord bot scaffolder on [npm](https://npmjs.com/package/generator-discord) · Spigot plugins · Discord bots (2022–2024, archived).
+
+[WatchLock](https://github.com/emilkrebs/WatchLock) — lock your phone from your watch (Android + Wear OS). Play Store listing no longer live; source stays up.
 
 ## 05 · Index
 
