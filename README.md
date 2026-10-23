@@ -2,7 +2,7 @@
 
 ## 01 · Enterprise
 
-Domain-specific tooling in the enterprise ecosystem at **[TypeFox GmbH](https://typefox.io/)** (Kiel): VSCode-Extensions, language servers, Langium-based DSLs, and Theia-based IDE platforms, plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA; scope is shared on request.
+Domain-specific tooling in the enterprise ecosystem at **[TypeFox GmbH](https://typefox.io/)** (Kiel): VSCode-Extensions, language servers, Langium-based DSLs, and Theia-based IDE platforms, plus open-source contributions to Theia and Langium. Enterprise engagements are under NDA.
 
 ## 02 · Live products
 
